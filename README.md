@@ -2,6 +2,5 @@
 - 👀 I’m interested in web development and API's.
 - 🌱 I’m currently learning back-end development.
 - 💞️ I’m looking to collaborate on projects.
-- 📫 Reach me on- touhidkabir17@gmail.com
-
-
+- 📫 Reach me on - touhidkabir17@gmail.com
+- ✌️ My portfolio - https://kazuma.netlify.app
